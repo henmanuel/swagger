@@ -158,7 +158,7 @@ curl -X POST http://localhost:3000/api/tasks \
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
-Tu Nombre - [tu@email.com](mailto:tu@email.com)
-Link del Proyecto: [https://github.com/tu-usuario/swagger-demo](https://github.com/tu-usuario/swagger-demo)
+Tu Nombre - [henmanuelvargas@gmail.com](henmanuelvargas@gmail.com)
+Link del Proyecto: [https://github.com/henmanuel/swagger.git](https://github.com/henmanuel/swagger.git)
 
 ¿Necesitas más detalles sobre alguna sección específica del README?
