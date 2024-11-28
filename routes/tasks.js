@@ -68,6 +68,7 @@ router.post('/tasks', (req, res) => {
         title: req.body.title,
         completed: false
     };
+
     tasks.push(newTask);
     res.status(201).json(newTask);
 });
