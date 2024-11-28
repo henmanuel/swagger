@@ -160,5 +160,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## Contacto
 Tu Nombre - [henmanuelvargas@gmail.com](henmanuelvargas@gmail.com)
 Link del Proyecto: [https://github.com/henmanuel/swagger.git](https://github.com/henmanuel/swagger.git)
-
-¿Necesitas más detalles sobre alguna sección específica del README?
